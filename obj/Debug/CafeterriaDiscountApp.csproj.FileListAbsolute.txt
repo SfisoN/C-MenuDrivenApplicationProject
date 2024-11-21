@@ -1,0 +1,7 @@
+C:\Users\potti\Downloads\PRG261 GROUP PROJECT 1\bin\Debug\CafeterriaDiscountApp.exe.config
+C:\Users\potti\Downloads\PRG261 GROUP PROJECT 1\bin\Debug\CafeterriaDiscountApp.exe
+C:\Users\potti\Downloads\PRG261 GROUP PROJECT 1\bin\Debug\CafeterriaDiscountApp.pdb
+C:\Users\potti\Downloads\PRG261 GROUP PROJECT 1\obj\Debug\CafeterriaDiscountApp.csproj.AssemblyReference.cache
+C:\Users\potti\Downloads\PRG261 GROUP PROJECT 1\obj\Debug\CafeterriaDiscountApp.csproj.CoreCompileInputs.cache
+C:\Users\potti\Downloads\PRG261 GROUP PROJECT 1\obj\Debug\CafeterriaDiscountApp.exe
+C:\Users\potti\Downloads\PRG261 GROUP PROJECT 1\obj\Debug\CafeterriaDiscountApp.pdb
